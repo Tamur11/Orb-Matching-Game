@@ -1,0 +1,4 @@
+Name: Tamur Asar
+Game: Orb Monster
+
+The objective is to match rows and columns of three + orbs in order to remove the orbs and deal damage to the monster. Attempt to survive for as long as you can. Every three turns the monster will attack you. If your HP ever reaches 0 you lose and the game ends! In order to keep yourself healthy, match pink orbs to regain a portion of your life.
